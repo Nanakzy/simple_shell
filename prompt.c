@@ -5,5 +5,5 @@
  */
 void show_prompt(void)
 {
-	printf("Cisfun$ ");
+	printf("simple_shell$ ");
 }
